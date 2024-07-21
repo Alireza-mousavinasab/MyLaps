@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TimingSystem.Api</name>
+    </assembly>
+    <members>
+        <member name="T:TimingSystem.Api.Controllers.RaceController">
+            <summary>
+            RaceController handles API requests for race service.
+            </summary>
+        </member>
+        <member name="M:TimingSystem.Api.Controllers.RaceController.#ctor(TimingSystem.Domain.Abstractions.IRaceService,Microsoft.Extensions.Logging.ILogger{TimingSystem.Api.Controllers.RaceController})">
+            <summary>
+            RaceController handles API requests for race service.
+            </summary>
+        </member>
+        <member name="M:TimingSystem.Api.Controllers.RaceController.StartRace">
+            <summary>
+            Start Race
+            </summary>
+            <returns>The winner of match</returns>
+        </member>
+    </members>
+</doc>

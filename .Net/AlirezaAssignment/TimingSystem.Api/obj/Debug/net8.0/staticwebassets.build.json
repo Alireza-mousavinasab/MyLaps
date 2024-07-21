@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yVpcqcgHB02ueiy5sVXxUhZWplaq7FXbqyqQT3U0dlY=",
+  "Source": "TimingSystem.Api",
+  "BasePath": "_content/TimingSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

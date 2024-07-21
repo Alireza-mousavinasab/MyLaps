@@ -1,0 +1,30 @@
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.DAL.deps.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.DAL.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.DAL.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.Domain.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.Domain.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.AssemblyInfo.cs
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSy.540C30DC.Up2Date
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\refint\TimingSystem.DAL.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\ref\TimingSystem.DAL.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.DAL.deps.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.DAL.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.DAL.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.Domain.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\bin\Debug\net8.0\TimingSystem.Domain.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.csproj.AssemblyReference.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.AssemblyInfoInputs.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.AssemblyInfo.cs
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSy.540C30DC.Up2Date
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\refint\TimingSystem.DAL.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\TimingSystem.DAL.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.DAL\obj\Debug\net8.0\ref\TimingSystem.DAL.dll

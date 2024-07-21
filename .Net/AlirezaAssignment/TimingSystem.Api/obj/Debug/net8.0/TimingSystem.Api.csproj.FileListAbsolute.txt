@@ -1,0 +1,79 @@
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.csproj.AssemblyReference.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.AssemblyInfoInputs.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.AssemblyInfo.cs
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.csproj.CoreCompileInputs.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.RazorAssemblyInfo.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.RazorAssemblyInfo.cs
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.exe
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.deps.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.runtimeconfig.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.DAL.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Domain.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Service.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.DAL.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Domain.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Service.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.TimingSystem.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TimingSystem.Api.props
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TimingSystem.Api.props
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TimingSystem.Api.props
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\scopedcss\bundle\TimingSystem.Api.styles.css
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSy.F8FFD814.Up2Date
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\refint\TimingSystem.Api.dll
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.pdb
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.genruntimeconfig.cache
+C:\Users\a.mousavinasab\source\repos\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\ref\TimingSystem.Api.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\appsettings.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.exe
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.deps.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.runtimeconfig.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Api.xml
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\CsvHelper.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.DAL.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Domain.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Service.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.DAL.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Domain.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\bin\Debug\net8.0\TimingSystem.Service.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.csproj.AssemblyReference.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.AssemblyInfoInputs.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.AssemblyInfo.cs
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.csproj.CoreCompileInputs.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.TimingSystem.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TimingSystem.Api.props
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TimingSystem.Api.props
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TimingSystem.Api.props
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\scopedcss\bundle\TimingSystem.Api.styles.css
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSy.F8FFD814.Up2Date
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\refint\TimingSystem.Api.dll
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.xml
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.pdb
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\TimingSystem.Api.genruntimeconfig.cache
+C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Api\obj\Debug\net8.0\ref\TimingSystem.Api.dll
