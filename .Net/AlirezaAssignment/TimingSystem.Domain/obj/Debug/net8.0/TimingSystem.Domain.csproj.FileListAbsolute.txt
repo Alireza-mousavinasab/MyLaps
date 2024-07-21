@@ -20,3 +20,15 @@ C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Domain\obj\Debu
 C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\refint\TimingSystem.Domain.dll
 C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.pdb
 C:\My Projects\Assignments\MyLaps\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\ref\TimingSystem.Domain.dll
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\bin\Debug\net8.0\TimingSystem.Domain.deps.json
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\bin\Debug\net8.0\TimingSystem.Domain.dll
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\bin\Debug\net8.0\TimingSystem.Domain.pdb
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.AssemblyInfoInputs.cache
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.AssemblyInfo.cs
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.sourcelink.json
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.dll
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\refint\TimingSystem.Domain.dll
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\TimingSystem.Domain.pdb
+C:\My Projects\Assignments\MyLaps\MyLaps\.Net\AlirezaAssignment\TimingSystem.Domain\obj\Debug\net8.0\ref\TimingSystem.Domain.dll

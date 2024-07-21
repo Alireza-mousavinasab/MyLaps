@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {}
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {}
   },
   "projects": {
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
+        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
         "projectName": "TimingSystem.Domain",
-        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
+        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\a.mousavinasab\\.nuget\\packages\\",
-        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\obj\\",
+        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

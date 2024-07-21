@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eb/gCSV6aAg=",
+  "dgSpecHash": "1EaDsUF7DgA=",
   "success": true,
-  "projectFilePath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj",
+  "projectFilePath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.mousavinasab\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\a.mousavinasab\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",

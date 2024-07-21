@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "22ACwx+FZAM=",
+  "dgSpecHash": "AuFsVHqvsoo=",
   "success": true,
-  "projectFilePath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Tests\\TimingSystem.Tests.csproj",
+  "projectFilePath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Tests\\TimingSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.mousavinasab\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\a.mousavinasab\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

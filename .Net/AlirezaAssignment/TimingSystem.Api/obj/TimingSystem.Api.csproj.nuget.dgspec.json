@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj": {}
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj": {}
   },
   "projects": {
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj": {
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj",
+        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj",
         "projectName": "TimingSystem.Api",
-        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj",
+        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Api\\TimingSystem.Api.csproj",
         "packagesPath": "C:\\Users\\a.mousavinasab\\.nuget\\packages\\",
-        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Api\\obj\\",
+        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj": {
-                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj"
+              "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj": {
+                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj"
               },
-              "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
-                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj"
+              "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
+                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj"
               },
-              "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj": {
-                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj"
+              "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj": {
+                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj": {
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj",
+        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj",
         "projectName": "TimingSystem.DAL",
-        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj",
+        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\TimingSystem.DAL.csproj",
         "packagesPath": "C:\\Users\\a.mousavinasab\\.nuget\\packages\\",
-        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.DAL\\obj\\",
+        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -125,8 +125,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
-                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj"
+              "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
+                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
+        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
         "projectName": "TimingSystem.Domain",
-        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
+        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\a.mousavinasab\\.nuget\\packages\\",
-        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\obj\\",
+        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj": {
+    "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj",
+        "projectUniqueName": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj",
         "projectName": "TimingSystem.Service",
-        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj",
+        "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Service\\TimingSystem.Service.csproj",
         "packagesPath": "C:\\Users\\a.mousavinasab\\.nuget\\packages\\",
-        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Service\\obj\\",
+        "outputPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -273,8 +273,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
-                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj"
+              "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj": {
+                "projectPath": "C:\\My Projects\\Assignments\\MyLaps\\MyLaps\\.Net\\AlirezaAssignment\\TimingSystem.Domain\\TimingSystem.Domain.csproj"
               }
             }
           }
